@@ -1,6 +1,6 @@
 {
   "@context": "dtmi:dtdl:context;2",
-  "@id": "dtmi:azureiot:edge:edgeagent;1",
+  "@id": "dtmi:azureiot:edge:runtime:edgeagent;1",
   "@type": "Interface",
   "displayName": "Azure IotEdge Agent",
   "contents": [
